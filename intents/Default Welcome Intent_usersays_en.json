@@ -1,0 +1,54 @@
+[
+  {
+    "id": "63047d21-d2b0-48cf-880e-20dd1af5331e",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4af0ba13-d19c-47d4-80de-5b773c453187",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f262713c-c720-4004-bad6-48444e14fbaf",
+    "data": [
+      {
+        "text": "Hola. Puedo ayudarte a hacer una reserva o modificarla. ¿Cómo puedo ayudarte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37994687-f2b7-4623-8176-2a15198d9dc0",
+    "data": [
+      {
+        "text": "Te damos la bienvenida a Pigeon Travel. Puedo ayudarte a hacer una reserva o modificarla. ¿Qué quieres hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "151adfd0-5bf3-4965-af5d-740f4babeb48",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hola. Puedo ayudarte a hacer una reserva o modificarla. ¿Cómo puedo ayudarte?",
+            "Te damos la bienvenida a Pigeon Travel. Puedo ayudarte a hacer una reserva o modificarla. ¿Qué quieres hacer?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
